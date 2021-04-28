@@ -1,2 +1,1 @@
-# fastapi-memes
-Let's make a meme api
+# Scrape Memes from the Internet and Building an API using FastAPI
